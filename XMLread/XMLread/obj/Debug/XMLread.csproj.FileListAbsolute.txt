@@ -1,1 +1,2 @@
 c:\users\user\documents\visual studio 2015\Projects\XMLread\XMLread\bin\Debug\XMLread.exe.config
+C:\Users\user\Source\Repos\KUAS201729\XMLread\XMLread\bin\Debug\XMLread.exe.config
