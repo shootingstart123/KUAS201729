@@ -1,2 +1,10 @@
 c:\users\user\documents\visual studio 2015\Projects\XMLread\XMLread\bin\Debug\XMLread.exe.config
+C:\Users\user\Desktop\XMLread\XMLread\bin\Debug\XMLread.exe.config
+C:\Users\user\Desktop\XMLread\XMLread\bin\Debug\XMLread.exe
+C:\Users\user\Desktop\XMLread\XMLread\bin\Debug\XMLread.pdb
+C:\Users\user\Desktop\XMLread\XMLread\obj\Debug\XMLread.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\XMLread\XMLread\obj\Debug\XMLread.exe
+C:\Users\user\Desktop\XMLread\XMLread\obj\Debug\XMLread.pdb
 C:\Users\user\Source\Repos\KUAS201729\XMLread\XMLread\bin\Debug\XMLread.exe.config
+C:\Users\user\Source\Repos\KUAS201729\XMLread\XMLread\obj\Debug\XMLread.exe
+C:\Users\user\Source\Repos\KUAS201729\XMLread\XMLread\obj\Debug\XMLread.pdb
