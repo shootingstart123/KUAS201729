@@ -8,3 +8,9 @@ C:\Users\user\Desktop\XMLread\XMLread\obj\Debug\XMLread.pdb
 C:\Users\user\Source\Repos\KUAS201729\XMLread\XMLread\bin\Debug\XMLread.exe.config
 C:\Users\user\Source\Repos\KUAS201729\XMLread\XMLread\obj\Debug\XMLread.exe
 C:\Users\user\Source\Repos\KUAS201729\XMLread\XMLread\obj\Debug\XMLread.pdb
+D:\KUAS201729\XMLread\XMLread\bin\Debug\XMLread.exe.config
+D:\KUAS201729\XMLread\XMLread\obj\Debug\XMLread.exe
+D:\KUAS201729\XMLread\XMLread\obj\Debug\XMLread.pdb
+D:\KUAS201729\XMLread\XMLread\bin\Debug\XMLread.exe
+D:\KUAS201729\XMLread\XMLread\bin\Debug\XMLread.pdb
+D:\KUAS201729\XMLread\XMLread\obj\Debug\XMLread.csprojResolveAssemblyReference.cache
