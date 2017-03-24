@@ -40,6 +40,7 @@ namespace XMLread
                 Console.WriteLine("\t開館時間:"+openTime);
                 Console.WriteLine("\t聯絡電話:"+phone);
                 Console.WriteLine("\t傳真:"+fax);
+                // son
             }
             librarysnode
                 .Where(x => !x.IsEmpty).ToList()
