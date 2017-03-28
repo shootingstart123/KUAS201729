@@ -43,7 +43,7 @@ namespace XMLread
             }
             librarysnode
                 .Where(x => !x.IsEmpty).ToList()
-                .ForEach(librarynode => { });
+                .ForEach(librarynode => { }); 
             Console.ReadLine();
         }
     }
