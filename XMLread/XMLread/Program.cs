@@ -13,7 +13,7 @@ namespace XMLread
             List<library> librarys = new List<library>();
             var obj = new Database();
             //CreatDatabase(obj);
-            ShoeDatabase(obj);
+            ShowDatabase(obj);
             Console.ReadKey();
         }
         public static void CreatDatabase(Database d)
@@ -50,7 +50,7 @@ namespace XMLread
                 .ForEach(librarynode => { });
 
         }
-        public static void ShoeDatabase(Database d)
+        public static void ShowDatabase(Database d)
         {
             List<library> libraryget = new List<library>();
             libraryget=d.ReadLibrary();
