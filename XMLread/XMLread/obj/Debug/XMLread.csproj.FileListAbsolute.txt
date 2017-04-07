@@ -14,3 +14,5 @@ D:\KUAS201729\XMLread\XMLread\obj\Debug\XMLread.pdb
 D:\KUAS201729\XMLread\XMLread\bin\Debug\XMLread.exe
 D:\KUAS201729\XMLread\XMLread\bin\Debug\XMLread.pdb
 D:\KUAS201729\XMLread\XMLread\obj\Debug\XMLread.csprojResolveAssemblyReference.cache
+D:\KUAS201729\XMLread\XMLread\bin\Debug\Clibrary.dll
+D:\KUAS201729\XMLread\XMLread\bin\Debug\Clibrary.pdb

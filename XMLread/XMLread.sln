@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLread", "XMLread\XMLread.csproj", "{2468FFC6-E467-480B-8F86-6477238DE4E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web_ex", "web_ex\web_ex.csproj", "{C64C053E-7B97-4BA4-B65C-9384DB7BD620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clibrary", "Clibrary\Clibrary.csproj", "{96F36562-1B4E-48E5-85BE-A8630AA616BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{2468FFC6-E467-480B-8F86-6477238DE4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2468FFC6-E467-480B-8F86-6477238DE4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2468FFC6-E467-480B-8F86-6477238DE4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64C053E-7B97-4BA4-B65C-9384DB7BD620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64C053E-7B97-4BA4-B65C-9384DB7BD620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64C053E-7B97-4BA4-B65C-9384DB7BD620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64C053E-7B97-4BA4-B65C-9384DB7BD620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F36562-1B4E-48E5-85BE-A8630AA616BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F36562-1B4E-48E5-85BE-A8630AA616BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F36562-1B4E-48E5-85BE-A8630AA616BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F36562-1B4E-48E5-85BE-A8630AA616BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

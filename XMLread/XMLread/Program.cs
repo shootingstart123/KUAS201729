@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
+using Clibrary;
 namespace XMLread
 {
     class Program
@@ -36,7 +37,7 @@ namespace XMLread
                 var openTime = librarynode.Attribute("openTime").Value.Trim();
                 var phone = librarynode.Attribute("phone").Value.Trim();
                 var fax = librarynode.Attribute("fax").Value.Trim();
-                library librarydata = new library();
+                Clibrary.library librarydata = new Clibrary.library();
                 librarydata.name = name;
                 librarydata.address = address;
                 librarydata.openTime = openTime;
@@ -52,7 +53,7 @@ namespace XMLread
         }
         public static void ShowDatabase(Database d)
         {
-            List<library> libraryget = new List<library>();
+            List<Clibrary.library> libraryget = new List<Clibrary.library>();
             libraryget=d.ReadLibrary();
             int count = 1;
             libraryget.ForEach(x => {
