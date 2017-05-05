@@ -1,0 +1,36 @@
+﻿@model  List<Clibrary.library> 
+
+@{
+    Layout = null;
+    var UserName = ViewBag.UserName;
+    var libs = Model;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <hl>@UserName</hl>
+        <p>This is A</p>
+        <ul>This is A1</ul>
+        <p>This is B</p>
+        <ul>This is B1</ul>
+        <ul>
+            @for (var i = 0; i < libs.Count; i++)
+            {
+                <li>第 @(i+1) 筆資料</li>
+                <li>@Model[i].name<br /></li>
+                <li>@Model[i].address<br /></li>
+                <li>@Model[i].openTime<br /></li>
+                <li>@Model[i].phone<br /></li>
+                <li>@Model[i].fax<br /><br /></li>
+            }
+        </ul>
+    </div>
+</body>
+</html>
